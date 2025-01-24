@@ -1,27 +1,20 @@
 ## Hi there 👋
 
-<!--
-**jfiras/jfiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Firas Jebri</h1>
+<h3 align="center">A passionate IT Engineer from Tunisia</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi 👋, I'm Sejid Mrad</h1>
-<h3 align="center">A passionate Electrical Engineer from Tunisia</h3>
-
-- 🌱 I’m currently learning **ROS**
+- 🌱 I’m currently learning **Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<!-- Social media icons -->
+<!-- <p align="center"> -->
+  <a href= "https://www.linkedin.com/in/bayrem-gharssellaoui/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
+  <a href= "https://medium.com/@garssallaoui.bayrem"><img src="https://img.icons8.com/dusk/48/000000/medium-new.png"/></a>
+  <a href= "https://signal.org"><img src="https://img.icons8.com/color/48/000000/signal-app.png"/></a>
+  <a href= "https://www.youtube.com/channel/UCj_aGuryykHGnmFXHa5kzLQ"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
+<!-- </p> -->
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
