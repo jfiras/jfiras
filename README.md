@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Firas Jebri</h1>
 <h3 align="center">A passionate Full-Stack Javascript developer from Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
+<img align="right" alt="Coding" width="400" src="assets/github-intro-v2.gif">
 
 - 🌱 I’m currently learning **flutter**
 
