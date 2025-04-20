@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Firas Jebri</h1>
 <h3 align="center">A passionate Full-Stack Javascript developer from Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="assets/github-intro-v2.gif">
+<!-- <img align="right" alt="Coding" width="400" src="assets/github-intro-v2.gif"> -->
 
 - 🌱 I’m currently learning **react native**
 
@@ -50,16 +50,10 @@
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a>
-
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+</a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-</a>
-
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+</a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 </a>
 
