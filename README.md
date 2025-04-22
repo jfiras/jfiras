@@ -49,7 +49,6 @@
 <br/>
 
 <span><img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfiras&layout=compact&hide=php&langs_count=6" /></span>
-<span><a href="https://github.com/jfiras?tab=repositories&q=&type=&language=&sort=stargazers"><img height="150" src="https://github-readme-stats.vercel.app/api?username=jfiras&show_icons=true&count_private=true" /></a></span>
-<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=jfiras" height="150" alt="Stat Streak" /></span>
+<span><a href="https://github.com/jfiras?tab=repositories&q=&type=&language=&sort=stargazers"><img height="150" src="https://github-readme-stats.vercel.app/api?username=jfiras&show_icons=true&count_private=true" /></a></span><span><img src="https://github-readme-streak-stats.herokuapp.com/?user=jfiras" height="150" alt="Stat Streak" /></span>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jfiras&theme=react-dark)
