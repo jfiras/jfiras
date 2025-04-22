@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Firas Jebri</h1>
+<h1 align="center"> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "40"> </h1>
+<div size='20px'><h3>I'm Firas Jebri,<br><br>a Web-App Dev, UI/UX & IT Enthusiast :smile:</h3> 
+</div>
+<!-- <h1 align="center">Hi 👋, I'm Firas Jebri</h1> -->
+
 <h3 align="center">A passionate Full-Stack Javascript developer from Tunisia</h3>
-<!-- <img align="right" alt="Coding" width="400" src="assets/github-intro-v2.gif"> -->
 
 - 🌱 I’m currently learning **react native**
 
@@ -79,4 +82,24 @@
 
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jfiras&" alt="jfiras" />
+</p>
+
+<!-- //////////////// -->
+
+<h2> Technologies <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "40"> </h2>
+<br><br>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
+</p>
+<br>
+
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width = "40"> </h2>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfiras&hide_border=true&layout=compact" style="width: 45%" align="right"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jfiras&show_icons=true&count_private=true&hide_border=true" style="width: 50%" />
+
+<p align='center'>
+
 </p>
