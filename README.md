@@ -1,3 +1,5 @@
+<!-- Hi there! Feel free to make this your own but don't use my data :D Attributions are welcomed -->
+
 <h1 align="center"> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30"> </h1>
 <h2 align="center">I'm Firas Jebri,</h2>
 <h3 align="center">A passionate Software Engineer from Tunisia</h3>
@@ -46,14 +48,8 @@
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width = "40"> </h2>
 <br/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jfiras&show_icons=true&locale=en&layout=compact" alt="jfiras" width="45%" />
-<img src="https://github-readme-stats.vercel.app/api?username=jfiras&show_icons=true&locale=en" alt="jfiras" width="45%" />
-</p>
+<span><img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfiras&layout=compact&hide=php&langs_count=6" /></span>
+<span><a href="https://github.com/jfiras?tab=repositories&q=&type=&language=&sort=stargazers"><img height="150" src="https://github-readme-stats.vercel.app/api?username=jfiras&show_icons=true&count_private=true" /></a></span>
+<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=jfiras" height="150" alt="Stat Streak" /></span>
 
-<p align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jfiras&theme=react&border_radius=5)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jfiras&theme=react-dark)
-
-</p>
