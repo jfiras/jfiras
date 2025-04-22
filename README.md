@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Firas Jebri</h1>
 <h3 align="center">A passionate Full-Stack Javascript developer from Tunisia</h3>
 <!-- <img align="right" alt="Coding" width="400" src="assets/github-intro-v2.gif"> -->
+<img align="right" alt="Coding" width="400" src="hero-boy-image.png">
 
 - 🌱 I’m currently learning **react native**
 
