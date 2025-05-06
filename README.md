@@ -1,4 +1,4 @@
-<!-- Hi there! Feel free to make this your own but don't use my data :D Attributions are welcomed -->
+<!-- Hi there! Feel free to make this your own but don't use my data :D Attributions are welcomed, thank you! -->
 
 <h1 align="center"> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30"> </h1>
 <h2 align="center">I'm Firas Jebri,</h2>
